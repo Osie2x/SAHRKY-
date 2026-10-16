@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset",
+  "metadata_url": "https://www.kaggle.com/api/v1/datasets/view/thirumani/shark-tank-us-dataset",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/thirumani/shark-tank-us-dataset?datasetVersionNumber=34",
+  "accessed_local_date": "2026-10-16",
+  "creator": "thirumani (Kaggle)",
+  "dataset_version": 34,
+  "source_last_updated": "2026-02-14T10:13:05.017Z",
+  "license_as_reported_by_kaggle": "CC0: Public Domain",
+  "license_reference": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "archive_bytes": 94697,
+  "archive_sha256": "e96e30fe7c02a0bcc0d6b5eaf9b2bc5a4693a7aaaf36b2a410c82361bb8d42d5",
+  "csv_filename": "Shark Tank US dataset.csv",
+  "csv_bytes": 349006,
+  "csv_sha256": "64236e6258ad8d32c2e4c320c71213ff1a369dd105595131561e748e2719a6c3",
+  "raw_rows": 1485,
+  "raw_columns": 53,
+  "season_coverage": "1-17; season 17 is a partial snapshot, not the complete season",
+  "limitations": [
+    "Kaggle's licence label is recorded as provided; no TV-video or logo rights are inferred.",
+    "Recorded Got Deal describes the show outcome, not independently verified post-show funding.",
+    "No independent row-by-row factual audit or human label validation has been performed.",
+    "Raw archive and metadata remain local and ignored; only provenance and audit summaries are published."
+  ]
+}
